@@ -1,4 +1,4 @@
-# It is an object detector which detects and classifies objects using classical image processing techniques in opencv.
+# It is an object detector which detects and classifies objects using classical image processing techniques in opencv. Every class is distinguished by its color
 
 Steps :
 
